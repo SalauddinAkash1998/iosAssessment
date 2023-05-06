@@ -1,0 +1,7 @@
+Target dependency graph (4 targets)
+Pods-DailyNews in Pods, no dependencies
+Pods-DailyNews-DailyNewsUITests in Pods, no dependencies
+SDWebImage in Pods, no dependencies
+Pods-DailyNewsTests in Pods, depends on:
+Pods-DailyNews in Pods (explicit)
+SDWebImage in Pods (explicit)
